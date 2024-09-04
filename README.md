@@ -22,3 +22,7 @@ Tech Stack
 
 ### Movie Detail Screen
 <img src="https://github.com/user-attachments/assets/659207a7-2f82-4c95-bfd8-b6409641e13f" width="300"/>
+
+
+https://github.com/user-attachments/assets/7f343102-ed5f-439c-8b1b-38bfc402501b
+
