@@ -15,5 +15,10 @@ Tech Stack
     Retrofit: Type-safe HTTP client for Android and Java to interact with TMDb API.
     Coroutines: For asynchronous programming and handling background tasks.
     TMDb API: Provides movie data, including trending movies and details.
-![Screenshot_2024-09-04-18-03-31-21_cea9489999dd05c85078039673d0ccad](https://github.com/user-attachments/assets/4ebd1431-930c-474b-a3d0-9d49580092b3)
-![Screenshot_2024-09-04-18-03-44-13_cea9489999dd05c85078039673d0ccad](https://github.com/user-attachments/assets/659207a7-2f82-4c95-bfd8-b6409641e13f)
+## Screenshots
+
+### Movie List Screen
+<img src="https://github.com/user-attachments/assets/4ebd1431-930c-474b-a3d0-9d49580092b3" width="300"/>
+
+### Movie Detail Screen
+<img src="https://github.com/user-attachments/assets/659207a7-2f82-4c95-bfd8-b6409641e13f" width="300"/>
